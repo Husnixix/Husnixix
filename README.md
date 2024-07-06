@@ -1,13 +1,13 @@
 ### Hi, I'm Husni Haniffa
 
-#### 👨🏻‍💻 **About Me**
+#### 👨🏻‍💻 <u>About Me</u>
 
 - 🎓 Reading [BSc (Hons) Software Engineering](https://icbt.lk/courses/bsc-hons-software-engineering/) at Cardiff Metropolitan University
 - 🤔 Passionate about developing innovative solutions to real-world problems.
 
-#### 🛠 **Tech Stack**
+#### 🛠 <u>Tech Stack</u>
 
-##### Front End
+- ##### Front End
 
 <div>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
@@ -15,7 +15,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
 </div>
 
-##### Back End
+- ##### Back End
 
 <div>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
@@ -24,7 +24,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
 </div>
 
-##### Database
+- ##### Database
 
 <div>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
