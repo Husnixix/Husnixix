@@ -5,7 +5,7 @@
 - 🎓 Reading [BSc (Hons) Software Engineering](https://icbt.lk/courses/bsc-hons-software-engineering/) at Cardiff Metropolitan University
 - 🤔 Passionate about developing innovative solutions to real-world problems.
 
-#### 🛠 Tech Stack
+#### <div style="border-bottom: 1px solid; padding-bottom: 10px; margin-bottom: 10px;">🛠 Tech Stack</div>
 
 📋 **Languages** 
 
