@@ -1,11 +1,11 @@
 ### Hi, I'm Husni Haniffa
 
-#### 👨🏻‍💻 <u>About Me</u>
+#### 👨🏻‍💻 <ins>About Me</ins>
 
 - 🎓 Reading [BSc (Hons) Software Engineering](https://icbt.lk/courses/bsc-hons-software-engineering/) at Cardiff Metropolitan University
 - 🤔 Passionate about developing innovative solutions to real-world problems.
 
-#### 🛠 <u>Tech Stack</u>
+#### 🛠 <ins>Tech Stack</ins>
 
 - ##### Front End
 
